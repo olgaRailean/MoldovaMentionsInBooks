@@ -10,8 +10,14 @@ Spoilers ahead!
 1. [Book 1](#book1)
 2. [Book 2](#book2)
 
-## Book 1 <a name="book1"></a>
-Description
+## _An Astronaut's Guide to Life on Earth_ by  Chris Hadfield
+<a name="book1"></a>
+- *Type*: Biography
+- *Description*: An entertaining book about how Chris Hadfield became a pilot, then an autronaut.
+- *Moldova Mention*: Chris has been moved to Star City to train how to work with ISS. There he enjoyed Moldovan cognac. 
+- *Links*:
+	- [Google Books link to the mention](https://books.google.co.uk/books?id=ymqqXuGFL9sC&pg=PT47&lpg=PT47&dq=An+Astronaut%27s+Guide+to+Life+on+Earth+moldovan&source=bl&ots=28DsARrqkh&sig=ACfU3U1kyC2QJ3H8SU215aDJ7AqdXKyipQ&hl=en&sa=X&ved=2ahUKEwjon5eRz9P3AhXOVsAKHeUdDdQQ6AF6BAg1EAM#v=onepage&q=Moldovan&f=false)
+	- [Amazon link](https://www.amazon.co.uk/Astronauts-Guide-Life-Earth/dp/1447257103)
 
 
 
