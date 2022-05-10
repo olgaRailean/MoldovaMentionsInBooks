@@ -1,13 +1,13 @@
-# Moldova mentions in various books
+# Moldova mentions in various books 🇲🇩
 
-This is a repository of books in which I have encountered unexpected mentions of the Republic of Moldova. And as such, this is not a collection of books about Moldova, but where the country, its citizens, or anything Moldovan was briefly mentioned.  This is in no way comprehensive, but I welcome any additions. A brief context of how/why Moldova is mentioned is also included. 
+This is a repository of books in which I have encountered unexpected mentions of the Republic of Moldova. And as such, this is not a collection of books about Moldova or written by its citizens. These are books where you wouldn't expect that the country, its citizens, or anything Moldovan would be mentioned at all. Some books have entire chapters dedicated to something Moldovan, others just a brief mention.  
 
-Spoilers ahead!
+This list is in no way comprehensive, but I am welcoming any additions. A brief context of how/why Moldova is mentioned is also included, with any additional information for further exploration. 
 
 ***
 
-# Table of contents
-1. [Book 1](#book1)
+## Table of contents
+1. [n Astronaut's Guide to Life on Earth](#book1)
 2. [Book 2](#book2)
 
 ## _An Astronaut's Guide to Life on Earth_ by  Chris Hadfield
