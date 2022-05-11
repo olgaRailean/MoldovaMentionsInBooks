@@ -72,9 +72,9 @@ This list is in no way comprehensive, but I am welcoming any additions. A brief 
 - *🇲🇩 Mention*: <details><summary>Spoiler warning</summary>
   
   Moldova is mentioned as the traffic capital of the world. A former trafficked woman becomes the president of Moldova. She attacks neighboring countries, also orchestrates a mass killing of Moldovan men (and women challenging her), and eventually uses atomic bombs in order to wipe out patriarchy... 
+ </details>
   
-</details>
-  - *Links*:
+- *Links*:
 	- [Amazon link](https://www.amazon.co.uk/Power-Naomi-Alderman/dp/0316547611)  
 
 [TOP](#start)
