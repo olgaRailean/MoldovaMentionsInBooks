@@ -71,7 +71,7 @@ This list is in no way comprehensive, but I am welcoming any additions. A brief 
 - *Description*: Women discover the ability to generate electricity. This eventually shifts the gender balance towards women.
 - *🇲🇩 Mention*: <details><summary>Spoiler warning</summary>
   
-  Moldova is mentioned as the traffic capital of the world. A former trafficked woman becomes the president of Moldova. She attacks neighboring countries, also orchestrates a mass killing of Moldovan men (and women challenging her), and eventually uses atomic bombs in order to wipe out patriarchy... 
+  Moldova is mentioned as the traffic capital of the world. A former trafficked woman becomes the president of Moldova. She attacks neighboring countries, also orchestrates a mass killing of Moldovan men (and women challenging her), and eventually uses atomic bombs in order to wipe out patriarchy, which bring the whole world back to the stone era... 
  </details>
   
 - *Links*:
