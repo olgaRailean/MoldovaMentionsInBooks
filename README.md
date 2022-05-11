@@ -7,21 +7,28 @@ This list is in no way comprehensive, but I am welcoming any additions. A brief 
 ***
 
 ## Table of contents
-1. [n Astronaut's Guide to Life on Earth](#book1)
-2. [Book 2](#book2)
+1. [An Astronaut's Guide to Life on Earth](#book1)
+2. [Butler to the World](#book2)
 
 ## _An Astronaut's Guide to Life on Earth_ by  Chris Hadfield
 <a name="book1"></a>
 - *Type*: Biography
-- *Description*: An entertaining book about how Chris Hadfield became a pilot, then an autronaut.
-- *Moldova Mention*: Chris has been moved to Star City to train how to work with ISS. There he enjoyed Moldovan cognac. 
+- *Description*: An entertaining book about how Chris Hadfield became a pilot, then an astronaut, and yet remain a mere human.
+- *🇲🇩 Mention*: Chris has moved to Star City near Moscow to train how to work with International Space Station. During that time there he enjoyed some Moldovan cognac.
 - *Links*:
 	- [Google Books link to the mention](https://books.google.co.uk/books?id=ymqqXuGFL9sC&pg=PT47&lpg=PT47&dq=An+Astronaut%27s+Guide+to+Life+on+Earth+moldovan&source=bl&ots=28DsARrqkh&sig=ACfU3U1kyC2QJ3H8SU215aDJ7AqdXKyipQ&hl=en&sa=X&ved=2ahUKEwjon5eRz9P3AhXOVsAKHeUdDdQQ6AF6BAg1EAM#v=onepage&q=Moldovan&f=false)
 	- [Amazon link](https://www.amazon.co.uk/Astronauts-Guide-Life-Earth/dp/1447257103)
 
+## _Butler to the World: How Britain Became the Servant of Tycoons, Tax Dodgers, Kleptocrats and Criminals_ by  Oliver Bullough
+<a name="book2"></a>
+- *Type*: Economic History/Non-fiction
+- *Description*: How the UK became one of the pioneers to provide off-shore services in order to evade taxes and hide criminal activities.
+- *🇲🇩 Mention*: An entire chapter is dedicated to the ways how [1 billion dollars](https://en.wikipedia.org/wiki/2014_Moldovan_bank_fraud_scandal) were laundered out of Moldova through shell companies registred in Scotland. 
+- *Links*:
+	- [Amazon link](https://www.amazon.co.uk/Butler-World-Britain-Empire-Found-ebook/dp/B08TB43BCL)
 
 
-## Book 2 <a name="book2"></a>
+## Book 2 <a name="book3"></a>
 Description
 <details>
   <summary>Spoiler warning</summary>
