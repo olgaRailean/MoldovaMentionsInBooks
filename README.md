@@ -12,7 +12,7 @@ This list is in no way comprehensive, but I am welcoming any additions. A brief 
 3. [Endurance: A Year in Space, a Lifetime of Discovery](#book3)
 4. [Geography of Bliss](#book4)
 5. [Playing the Moldovans at Tennis](#book5)
-6. [Playing the Moldovans at Tennis](#book6)
+6. [The Power](#book6)
 
 ## _An Astronaut's Guide to Life on Earth_ by  Chris Hadfield
 <a name="book1"></a>
@@ -76,6 +76,6 @@ This list is in no way comprehensive, but I am welcoming any additions. A brief 
   
 </details>
 - *Links*:
-	- [Amazon link](https://www.amazon.co.uk/Playing-Moldovans-Tennis-Tony-Hawks/dp/0091920353)  
+	- [Amazon link](https://www.amazon.co.uk/Power-Naomi-Alderman/dp/0316547611)  
 
 [table of contents](#start)
