@@ -23,7 +23,7 @@ This list is in no way comprehensive, but I am welcoming any additions. A brief 
 	- [Google Books link to the mention](https://books.google.co.uk/books?id=ymqqXuGFL9sC&pg=PT47&lpg=PT47&dq=An+Astronaut%27s+Guide+to+Life+on+Earth+moldovan&source=bl&ots=28DsARrqkh&sig=ACfU3U1kyC2QJ3H8SU215aDJ7AqdXKyipQ&hl=en&sa=X&ved=2ahUKEwjon5eRz9P3AhXOVsAKHeUdDdQQ6AF6BAg1EAM#v=onepage&q=Moldovan&f=false)
 	- [Amazon link](https://www.amazon.co.uk/Astronauts-Guide-Life-Earth/dp/1447257103)
 
-[table of contents](#start)
+[TOP](#start)
 
 ## _Butler to the World: How Britain Became the Servant of Tycoons, Tax Dodgers, Kleptocrats and Criminals_ by  Oliver Bullough
 <a name="book2"></a>
@@ -33,7 +33,7 @@ This list is in no way comprehensive, but I am welcoming any additions. A brief 
 - *Links*:
 	- [Amazon link](https://www.amazon.co.uk/Butler-World-Britain-Empire-Found-ebook/dp/B08TB43BCL)
 
-[table of contents](#start)
+[TOP](#start)
 
 ## _Endurance: A Year in Space, a Lifetime of Discovery_ by  Scott Kelly
 <a name="book3"></a>
@@ -44,7 +44,7 @@ This list is in no way comprehensive, but I am welcoming any additions. A brief 
 	- [Google Books link to the mention](https://www.google.co.uk/books/edition/Endurance/0pIODgAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
 	- [Amazon link](https://www.amazon.co.uk/Endurance-Year-Space-Lifetime-Discovery/dp/1524731595)
 
-[table of contents](#start)
+[TOP](#start)
 
 ## _Geography of Bliss_ by  Eric Weiner
 <a name="book4"></a>
@@ -54,7 +54,7 @@ This list is in no way comprehensive, but I am welcoming any additions. A brief 
 - *Links*:
 	- [Amazon link](https://www.amazon.co.uk/Geography-Bliss-Eric-Weiner/dp/0552775088/)
 
-[table of contents](#start)
+[TOP](#start)
 
 ## _Playing the Moldovans at Tennis_ by Tony Hawks
 <a name="book5"></a>
@@ -64,18 +64,17 @@ This list is in no way comprehensive, but I am welcoming any additions. A brief 
 - *Links*:
 	- [Amazon link](https://www.amazon.co.uk/Playing-Moldovans-Tennis-Tony-Hawks/dp/0091920353)  
 
-[table of contents](#start)
+[TOP](#start)
 
 ## _The Power_ by Naomi Alderman <a name="book6"></a>
 - *Type*: Fiction
 - *Description*: Women discover the ability to generate electricity. This eventually shifts the gender balance towards women.
-- *🇲🇩 Mention*: <details>
-  <summary>Spoiler warning</summary>
+- *🇲🇩 Mention*: <details><summary>Spoiler warning</summary>
   
   Moldova is mentioned as the traffic capital of the world. A former trafficked woman becomes the president of Moldova. She attacks neighboring countries, also orchestrates a mass killing of Moldovan men (and women challenging her), and eventually uses atomic bombs in order to wipe out patriarchy... 
   
 </details>
-- *Links*:
+  - *Links*:
 	- [Amazon link](https://www.amazon.co.uk/Power-Naomi-Alderman/dp/0316547611)  
 
-[table of contents](#start)
+[TOP](#start)
