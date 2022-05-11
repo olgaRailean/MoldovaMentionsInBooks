@@ -9,6 +9,7 @@ This list is in no way comprehensive, but I am welcoming any additions. A brief 
 ## Table of contents
 1. [An Astronaut's Guide to Life on Earth](#book1)
 2. [Butler to the World](#book2)
+3. [Endurance: A Year in Space, a Lifetime of Discovery](#3)
 
 ## _An Astronaut's Guide to Life on Earth_ by  Chris Hadfield
 <a name="book1"></a>
@@ -27,8 +28,16 @@ This list is in no way comprehensive, but I am welcoming any additions. A brief 
 - *Links*:
 	- [Amazon link](https://www.amazon.co.uk/Butler-World-Britain-Empire-Found-ebook/dp/B08TB43BCL)
 
+## _Endurance: A Year in Space, a Lifetime of Discovery_ by  Scott Kelly
+<a name="book3"></a>
+- *Type*: Biography
+- *Description*: The book details Kelly's life, as well as that of his twin brother Mark, as they became astronauts, and how the then spent a year in space. He really likes to complain about CO2 levels on the ISS!
+- *🇲🇩 Mention*: Same as Chris Hadfield, he went to Star City near Moscow for International Space Station training. During some time off he went to a bar, where he witnessed Moldovans starting a fight with NASA folks.
+- *Links*:
+	- [Google Books link to the mention](https://www.google.co.uk/books/edition/Endurance/0pIODgAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
+	- [Amazon link](https://www.amazon.co.uk/Endurance-Year-Space-Lifetime-Discovery/dp/1524731595)
 
-## Book 2 <a name="book3"></a>
+## Book 2 <a name="book100"></a>
 Description
 <details>
   <summary>Spoiler warning</summary>
