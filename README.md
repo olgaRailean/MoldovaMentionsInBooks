@@ -14,6 +14,11 @@ This list is in no way comprehensive, but I am welcoming any additions. A brief 
 5. [Playing the Moldovans at Tennis](#book5)
 6. [The Power](#book6)
 
+### Unverified sources:
+7. [Immanuel's Veins](#book7)
+8. [The Global Suitcase](#book8)
+9. [Marvel Comics](#book9)
+
 ## _An Astronaut's Guide to Life on Earth_ by  Chris Hadfield
 <a name="book1"></a>
 - *Type*: Biography
@@ -78,3 +83,40 @@ This list is in no way comprehensive, but I am welcoming any additions. A brief 
 	- [Amazon link](https://www.amazon.co.uk/Power-Naomi-Alderman/dp/0316547611)  
 
 [TOP](#start)
+
+---
+
+# Unverified
+
+## _Immanuel's Veins_ by Ted Dekker <a name="book7"></a>
+- *Type*: Fiction
+- *Description*: This is the story of Toma Nicolescu, a warrior commissioned by Catherine the Great of Russia to protect the Cantemir family of Moldavia.
+- *🇲🇩 Mention*: see above.
+- *Links*:
+	- [Amazon link](https://www.amazon.co.uk/Immanuels-Veins-Ted-Dekker/dp/1595540091) 
+
+## _The Global Suitcase_ by Mary Dinan <a name="book8"></a>
+- *Type*: Travel
+- *Description*: The Global Suitcase is a compilation of interviews with everyday people and well-known personalities who have travelled extraordinary journeys or lived unusual lives, often guided by a cause, in the name of work, or in pursuit of adventure.
+- *🇲🇩 Mention*: There might be an interview with some one about Moldova?
+- *Links*:
+	- [Amazon link](https://www.amazon.co.uk/Global-Suitcase-Mary-J-Dinan/dp/1780094574/
+
+## Marvel Comics: <a name="book79"></a>
+- *Type*: comics, fiction
+- _Secret Warriors_
+	- *Descripton*: The illigitimate son of Nick Fury is a politician in Moldova
+	- *Links*: 
+		- https://marvelheroeslibrary.com/comics/comic-info.aspx?book=Secret+Warriors&comic=SW-24
+		- http://www.marvunapp.com/Appendix2/scorpiofurymikel.htm
+- _The Punisher_
+	- *Description*: The Punisher deals with immigrants and enslaved people from Moldova
+	- *Links*:
+		- https://marvel.fandom.com/wiki/Punisher_Vol_7_25
+		- https://marvel.fandom.com/wiki/Punisher_Vol_7_26
+
+- Other Marvel mentions for "Moldavia"
+	- *Links*: 
+		- https://marvel.fandom.com/wiki/Category:Moldavia/Appearances
+
+
